@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React santhosh its working
+          Learn React santhosh its working dhanu
         </a>
       </header>
     </div>
